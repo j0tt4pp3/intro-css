@@ -1,0 +1,37 @@
+main {
+    background-color: #b641414d;
+}
+
+body {
+    background-color: #1d1d1d;
+    color: rgb(255, 255, 255);
+    font-family: verdana, geneva, tahoma sans-serif;
+}
+
+color {
+    color: aquamarine;
+    color: rgb(127, 255, 212);
+    /* 
+R - Red
+G - Green
+B - Blue
+*/
+    color: rgb (red, green, blue / alpha);
+    color: #7fffd4;
+    color: hsl(160, 100%, 75%);
+    /* 
+    Hue - Matiz
+    Saturation - Saturação
+    Lightness - Luminosidade
+    */
+    color: hwb(160, 100%, 75%);
+    color: lab(87.737, -86.184, 83.181);
+}
+
+h1 {
+    font-size: 40px;
+}
+
+h2 {
+    font-size: 32px;
+}
